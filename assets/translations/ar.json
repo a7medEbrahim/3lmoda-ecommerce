@@ -1,0 +1,22 @@
+{
+  "auth": {
+    "welcome_back": "مرحبا بعودتك إلى الطريق",
+    "please_sign_in": "يرجى تسجيل الدخول باستخدام بريدك الإلكتروني",
+    "user_name": "اسم المستخدم",
+    "enter_user_name": "أدخل اسمك",
+    "password": "كلمة المرور",
+    "enter_password": "أدخل كلمة المرور",
+    "forgot_password": "هل نسيت كلمة المرور",
+    "login": "تسجيل الدخول",
+    "dont_have_account": "ليس لديك حساب؟",
+    "create_account": "إنشاء حساب",
+    "full_name": "الاسم الكامل",
+    "enter_full_name": "أدخل اسمك الكامل",
+    "mobile_number": "رقم الهاتف المحمول",
+    "enter_mobile_number": "أدخل رقم هاتفك المحمول",
+    "email_address": "عنوان البريد الإلكتروني",
+    "enter_email_address": "أدخل عنوان بريدك الإلكتروني",
+    "sign_up": "اشتراك",
+    "please_enter": "من فضلك ادخل"
+  }
+}

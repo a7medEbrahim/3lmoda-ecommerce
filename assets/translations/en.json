@@ -1,0 +1,22 @@
+{
+  "auth": {
+    "welcome_back": "Welcome Back To Route",
+    "please_sign_in": "Please sign in with your mail",
+    "user_name": "User Name",
+    "enter_user_name": "enter your name",
+    "password": "Password",
+    "enter_password": "enter your password",
+    "forgot_password": "Forgot password",
+    "login": "Login",
+    "dont_have_account": "Don’t have an account?",
+    "create_account": "Create Account",
+    "full_name": "Full Name",
+    "enter_full_name": "enter your full name",
+    "mobile_number": "Mobile Number",
+    "enter_mobile_number": "enter your mobile no.",
+    "email_address": "E-mail address",
+    "enter_email_address": "enter your email address",
+    "sign_up": "Sign up",
+    "please_enter": "please enter"
+  }
+}
